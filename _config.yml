@@ -1,1 +1,7 @@
+title: "Open Web Governance Challenge"
+description: "Build better DAOs and better communities"
+permalink: "/stories/:title"
+url: https://metagov.github.io/open-web-challenge
+relative_permalinks: false
+
 theme: jekyll-theme-minimal
