@@ -1,23 +1,22 @@
 This is the portal for the upcoming Open Web Governance Challenge. The challenge is tentatively scheduled to begin on May 16, the date of the [Open Web Creators and Communities conference](http://summit.openweb.community/).
 
-# Key details
+# Key details and dates
 
-Anyone is eligible to enter, whether or not you're on NEAR. For more details, see below, or come to the kickoff on September 12, 12pm at the MIT Martin Trust Center. 
-
-# Key dates
-
-Kickoff: May 16, 3pm ET
-
-Team matchmaking and networking: May 16, 5pm ET
+* Anyone is eligible to enter, whether or not you're on NEAR.
+* Kickoff is May 14, 2021 at 11am EST (GMT-4).
+* $110,000 in prizes. 
+* Two weeks of workshops and events from May 14 to May 28.
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shryU24x71Du3IBq1?backgroundColor=pink&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-# Problem Definition
+# More information
+
+## Problem Definition
 For this challenge, teams will create decentralized autonomous organizations in order to coordinate and make decisions collectively. We recommend participants write descriptions of a real-world problem solved by their project or specific goals with explanations.
 
 Team leaders can launch Sputnik DAOs to enable voting on proposals of several types, including payouts, council membership (add / remove), updating parameters, and changing the purpose. The problem chosen should consider the features in our Sputnik DAO v2.
 
-# Success Criteria
+## Success Criteria
 Your team will define your own success criteria by submitting proposals to incentivize actions in pursuit of a vision. Meeting the success criteria demonstrates that your team solves a problem. In our meta-example, NEAR is building a family of DAOs to coordinate an event like this one.
 
 Keep in mind, the original purpose of Sputnik’s Genesis DAO is to develop Sputnik DAO as a technology and to grow the intergalactic mesh of satellite organizations.
@@ -30,7 +29,7 @@ Here is an example of success criteria that might be appropriate:
 
 After a month, teams will demonstrate how their solutions actually meet success criteria.
 
-## Examples
+### Examples
 * Rare Art Festival council forms to reward contributors, then coordinates an event in May
 * Open Sourcery Guild forms a group of councils to embark on a perilous journey
 * Createbase
@@ -41,17 +40,17 @@ After a month, teams will demonstrate how their solutions actually meet success 
 
 The judges will be looking for teams to demonstrate cooperation and communication, even if they are in different organizations. Councils may interact and receive bonus points…
 
-# DAO Specifications
+## DAO Specifications
 * https://github.com/near-daos
 * https://github.com/fluxprotocol/flux-dao-0.5
 * https://gov.near.org/t/launching-sputnik-daos/451 and https://gov.near.org/t/sputnikdao-v2/661
 
-# Rules for Participating DAOs / Councils
+## Rules for Participating DAOs / Councils
 DAOs must have a council with voting members, formed by a registered event participant.
 The role of a council member is to help other participants build solutions, according to strategic goals based on the purpose of that DAO.
 DAO participants can be members of more than one council.
 
-# Relevant Considerations
+## Relevant Considerations
 Legal Disclaimer?
 
 # Spirit of the Challenge
