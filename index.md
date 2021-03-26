@@ -1,4 +1,4 @@
-This is the portal for the upcoming Open Web Governance Challenge. The challenge is tentatively scheduled to begin on May 16, the date of the [Open Web Creators and Communities conference](http://summit.openweb.community/).
+This is the portal for the upcoming Open Web Governance Challenge. The challenge will begin on May 14, alongside the [Open Web Creators and Communities conference](http://summit.openweb.community/).
 
 # Key details and dates
 
