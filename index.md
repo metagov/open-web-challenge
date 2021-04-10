@@ -20,6 +20,8 @@ Governance is probably the most important problem in the world, because it's oft
 # The DAO hack (but this time for good)
 This hackathon is a bit special: we're running it *entirely through DAOs*. That means you'll need to register through a DAO and that the vast majority of hackathon prizes will be awarded through a DAO on NEAR to a DAO that you create. To make that prospect sweeter, we're encouraging people to get onboard early with $5,000 in prizes. To qualify, all you have to do is register a SputnikDAO for your project within the first week of the hackathon, have a council with your team as voting members, and submit some documentation of your current progress to Metagov DAO. And we promise, we'll fund you ;)
 
+New to DAOs? Take a look at [this excellent, up-to-date review](https://www.notboring.co/p/the-dao-of-daos) of the DAO phenomenon.
+
 # Judging criteria
 Challenge entries will be judged on four criteria:
 
