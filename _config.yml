@@ -5,4 +5,4 @@ permalink: "/stories/:title"
 url: https://metagov.github.io/open-web-challenge
 relative_permalinks: false
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
