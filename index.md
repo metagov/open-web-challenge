@@ -20,7 +20,7 @@ To help you scope out your projects, we've identified a range of challenge areas
 * **Propose your own challenge.** This is our take on the “other” option. Maybe you have a good idea that doesn’t fit into any of the challenge areas above. So submit your own governance challenge to Metagov. If it’s accepted, you’ll get $100 just for writing the challenge, $1000 if you complete it, and $500 if ANYONE completes the challenge.
 
 # The DAO hack (but this time for good)
-This hackathon is a bit special: we're running it *entirely through DAOs*. That means you'll need to register through a DAO and that the vast majority of hackathon prizes will be awarded through a DAO on NEAR to a DAO that you create. To make that prospect sweeter, we're encouraging people to get onboard early with $5,000 in prizes. To qualify, all you have to do is register a SputnikDAO for your project within the first week of the hackathon, have a council with your team as voting members, and submit some documentation of your current progress to Metagov DAO. And we promise, we'll fund you ;)
+This hackathon is a bit special: we're running it *entirely through DAOs*. That means you'll need to register through a DAO and that the vast majority of hackathon prizes will be awarded through a DAO on NEAR to a DAO that you create. To make that prospect sweeter, we're encouraging people to get onboard early with $5,000 in prizes. To qualify for a 30 NEAR payout (~ $120 USD), all you have to do is register a Sputnik DAO for your project, have a council with your team as voting members, and submit a 500-word draft proposal to the Metagov DAO *within the first week of the hackathon*. This will also qualify for a direct payout, as well as a round of special prizes.
 
 New to DAOs? Take a look at [this excellent, up-to-date review](https://www.notboring.co/p/the-dao-of-daos) of the DAO phenomenon.
 
@@ -35,6 +35,8 @@ Challenge entries will be judged on four criteria:
 We want to emphasize something: *entries do not have to be technical*. We encourage a mix of technical and social innovation---remember, blockchain itself is, at its core, a social innovation as well as a technical one!
 
 # Introducing the new tools of governance
+We have a ton of special governance workshops, events, and opportunities for you to train and build skills for the hackathon. We're also curating access to a range of tools that might help you expand your experiments.
+
 1. [Sputnik DAO](https://sputnik.fund/): NEAR's premier DAO technology, Sputnik DAOs offer an easy, accessible platform for collective decision-making on the blockchain
 2. [Metagov](http://docs.metagov.org/): a unified API gateway providing access to a bunch of governance services; designed to support rapid prototyping of governance experiments
 3. [SourceCred](https://sourcecred.io): SourceCred is a reputation algorithm helps communities measure and reward value creation
@@ -44,4 +46,4 @@ We want to emphasize something: *entries do not have to be technical*. We encour
 We may add changes and clarifications to the rules above. When changes occur, we'll let you know by email.
 
 # Towards better governance
-The Open Web Governance Challenge is part of a governance research initiative led by the Metagovernance Project and NEAR.
+The Open Web Governance Challenge is part of a governance research initiative led by the [Metagovernance Project](metagov.org) and [NEAR](near.org).
