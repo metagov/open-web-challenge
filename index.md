@@ -1,4 +1,4 @@
-This is the portal for the upcoming Open Web Governance Challenge, a track in the [Open Web Creators and Communities hackathon](http://summit.openweb.community/). . The challenge will begin on May 14, 2021 and end on June 6, 2021.
+This is the portal for the upcoming Open Web Governance Challenge, an independent track in the [Open Web Creators and Communities hackathon](http://summit.openweb.community/). The challenge will begin on May 14, 2021 and end on June 6, 2021.
 
 # Key details and dates
 
@@ -11,11 +11,13 @@ This is the portal for the upcoming Open Web Governance Challenge, a track in th
 <iframe class="airtable-embed" src="https://airtable.com/embed/shryU24x71Du3IBq1?backgroundColor=pink&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 # Challenge areas
-Governance is probably the most important problem in the world, because it's often the one standing in the way of solving every other problem. And it's hard. To help you scope out your projects, we've identified a range of challenge areas motivated by NEAR's own governance problems. Think of these as inspirations and starting points.
+To help you scope out your projects, we've identified a range of challenge areas motivated by NEAR's own governance problems. Think of these as inspirations and starting points.
 
-* ...
-* ...
-* ...
+* **Re-imagine the NEAR Community Fund.** [NEAR’s Community Fund](https://gov.near.org/t/community-fund-i-wiki/139) is a 5M $NEAR / 1.5M USD fund that supports DAOs, councils, and communities building on NEAR; it’s also the main entity funding this hackathon. It’s currently run by a council of ~7 people using simple up/down voting on Discourse proposals. In this challenge area, teams will propose improvements and/or completely new mechanisms for making distributions from the Community Fund. We’re especially interested in proposals that can make the process more decentralized and more participatory.
+* **Govern NEAR’s Rainbow Bridge.** The [Rainbow Bridge](https://near.org/blog/the-rainbow-bridge-is-live/) is a new relay between Ethereum and NEAR, but we need to incentivize people to operate it. In this challenge, area you will submit a socio-technical design for a new Rainbow DAO to govern the Rainbow Bridge, incentive contributions + relaying, and protect its future. Feel free to adapt the existing proposal, which you can find [here (see “Incentives”)](https://near.org/blog/eth-near-rainbow-bridge/).
+* **Better DAO frameworks on NEAR.** You’ve probably heard about Sputnik DAOs by now—but as far as DAO frameworks go, Sputnik is still pretty basic. In this challenge area, teams will spec and build out a new feature for Sputnik DAO or Flux DAO. Alternately, they might port over an existing DAO framework such as Aragon or Colony or even invent their own DAO framework on NEAR. Do whatever you like, as long as it helps people build new and better DAOs.
+* **Experiment with DAO-to-DAO interactions.** There’s a lot of excitement right now in building DAO-to-DAO interactions. Just take a look at [recent research](https://medium.com/primedao/conceptual-models-for-dao2dao-relations-ac2b2d3cc84d) produced by the PrimeDAO / Curve Labs / Block Science team. In this challenge area, hackathon team will propose and build some new DAO-to-DAO contracts, e.g. a contract that NEAR’s Community DAO can use to fund a Metagov DAO to organize a hackathon, or a contract that transfers an Aragon DAO on Ethereum into a Sputnik DAO on NEAR, or a contract that sets up a cross-platform, cross-platform DAO (kind of like a multinational corporation). We’re hoping to see some really creative entries in this category!
+* **Propose your own challenge.** This is our take on the “other” option. Maybe you have a good idea that doesn’t fit into any of the challenge areas above. So submit your own governance challenge to Metagov. If it’s accepted, you’ll get $100 just for writing the challenge, $1000 if you complete it, and $500 if ANYONE completes the challenge.
 
 # The DAO hack (but this time for good)
 This hackathon is a bit special: we're running it *entirely through DAOs*. That means you'll need to register through a DAO and that the vast majority of hackathon prizes will be awarded through a DAO on NEAR to a DAO that you create. To make that prospect sweeter, we're encouraging people to get onboard early with $5,000 in prizes. To qualify, all you have to do is register a SputnikDAO for your project within the first week of the hackathon, have a council with your team as voting members, and submit some documentation of your current progress to Metagov DAO. And we promise, we'll fund you ;)
