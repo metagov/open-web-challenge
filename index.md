@@ -8,7 +8,7 @@ This is the portal for the upcoming Open Web Governance Challenge, an independen
 * Three weeks of workshops and events from May 14 to June 6.
 * Q&A sessions on May 1 at noon EST and May 7 at 2pm EST.
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shryU24x71Du3IBq1?backgroundColor=pink&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shras1o8XfMPnQBW4?backgroundColor=pink" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 # Challenge areas
 To help you scope out your projects, we've identified a range of challenge areas motivated by NEAR's own governance problems.
