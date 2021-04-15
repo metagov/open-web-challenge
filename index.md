@@ -6,11 +6,11 @@ This is the portal for the upcoming Open Web Governance Challenge, an independen
 * Kickoff is May 14 at 11am EST (GMT-4).
 * $20,000 USD in prizes, with $5,000 to be released in the first week!
 * Three weeks of workshops and events from May 14 to June 6.
-* Q&A sessions on May 1 at noon EST and May 7 at 2pm EST.
+* Q&A sessions on _May 1 at noon EST_ ([register here](https://stanford.zoom.us/meeting/register/tJYvc-Ctpz8jG9x4VO3zOQZgaVLABZ6-H8Rw) for link) and _May 7 at 2pm EST_ ([register here](https://stanford.zoom.us/meeting/register/tJYvc-Ctpz8jG9x4VO3zOQZgaVLABZ6-H8Rw) for link).
 
-# Schedule
+# Calendar
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shras1o8XfMPnQBW4?backgroundColor=pink" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shryU24x71Du3IBq1?backgroundColor=pink&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 # Challenge areas
 To help you scope out your projects, we've identified a range of challenge areas motivated by NEAR's own governance problems.
