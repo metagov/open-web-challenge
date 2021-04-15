@@ -8,6 +8,8 @@ This is the portal for the upcoming Open Web Governance Challenge, an independen
 * Three weeks of workshops and events from May 14 to June 6.
 * Q&A sessions on May 1 at noon EST and May 7 at 2pm EST.
 
+# Schedule
+
 <iframe class="airtable-embed" src="https://airtable.com/embed/shras1o8XfMPnQBW4?backgroundColor=pink" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 # Challenge areas
