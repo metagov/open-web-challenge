@@ -6,7 +6,7 @@ This is the portal for the upcoming Open Web Governance Challenge, part of the [
 * Kickoff is May 14 at 11am EST (GMT-4).
 * $25,000 USD in prizes, with $5,000 to be released in the first week!
 * Three weeks of workshops and events from May 14 to June 6.
-* Q&A sessions on _May 1 at noon EST_ ([register here](https://stanford.zoom.us/meeting/register/tJYvc-Ctpz8jG9x4VO3zOQZgaVLABZ6-H8Rw) for link) and _May 7 at 12pm EST_ ([register here](https://stanford.zoom.us/meeting/register/tJEocOivqjwpGNIxZKvw_wLT3f7BXkck8LrC) for link).
+* Q&A sessions on _May 1 at noon EST_ ([register here](https://stanford.zoom.us/meeting/register/tJYvc-Ctpz8jG9x4VO3zOQZgaVLABZ6-H8Rw) for link) and _May 8 at 12pm EST_ ([register here](https://stanford.zoom.us/meeting/register/tJEocOivqjwpGNIxZKvw_wLT3f7BXkck8LrC) for link).
 
 # Calendar
 
