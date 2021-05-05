@@ -1,12 +1,14 @@
 This is the portal for the upcoming Open Web Governance Challenge, part of the [Open Web Creators and Communities Hackathon](http://summit.openweb.community/). The challenge will begin on May 14, 2021 and end on June 6, 2021.
 
+The next Q&A session is _May 8 at 12pm EST_ ([register here](https://stanford.zoom.us/meeting/register/tJEocOivqjwpGNIxZKvw_wLT3f7BXkck8LrC) for link)!
+
 # Key details and dates
 
 * Focus on blockchains, decentralized autonomous organizations (DAOs), and governance.
 * Kickoff is May 14 at 11am EST (GMT-4).
 * $25,000 USD in prizes, with $5,000 to be released in the first week!
 * Three weeks of workshops and events from May 14 to June 6.
-* Q&A sessions on _May 1 at noon EST_ ([register here](https://stanford.zoom.us/meeting/register/tJYvc-Ctpz8jG9x4VO3zOQZgaVLABZ6-H8Rw) for link) and _May 8 at 12pm EST_ ([register here](https://stanford.zoom.us/meeting/register/tJEocOivqjwpGNIxZKvw_wLT3f7BXkck8LrC) for link).
+* More questions? [Join our Telegram](https://t.me/governance_challenge).
 
 # Calendar
 
