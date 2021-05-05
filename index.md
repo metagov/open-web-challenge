@@ -8,7 +8,7 @@ This is the portal for the upcoming Open Web Governance Challenge, part of the [
 * Three weeks of workshops and events from May 14 to June 6. 
 * The next Q&A session is _May 8 at 12pm EST_ ([register here](https://stanford.zoom.us/meeting/register/tJEocOivqjwpGNIxZKvw_wLT3f7BXkck8LrC) for link)!
 * Looking for team? Join a team-building sessions on May 14 and May 15!
-* More questions? [Join our Telegram](https://t.me/governance_challenge).
+* More questions? [Join our Telegram](https://t.me/governance_challenge), reply to [our forum post](https://gov.near.org/t/proposal-example-project-proposal/1578), or join the [NEAR Discord](https://discord.gg/KGgwXNCekf).
 
 # Calendar
 All times are EST.
@@ -16,14 +16,14 @@ All times are EST.
 <iframe class="airtable-embed" src="https://airtable.com/embed/shryU24x71Du3IBq1?backgroundColor=pink&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 # Prizes
-First place: $5,000 USD
-Second place: $2,000 USD
-Honorary mentions: $500 USD
+* First place: $5,000 USD
+* Second place: $2,000 USD
+* Honorary mentions: $500 USD
 
 Plus $10,000+ worth of bounties—-see below.
 
 # Challenge areas and bounties
-To help you scope out your projects, we've identified a range of governance challenges motivated by the real issues faced by Web3 communities. Challenge areas in **bold** are funded, meaning that you can earn additional bounties (whether or not you win a prize above) for submitting a proposal that answers that challenge. The winner and runner-up of each **funded challenge area** described will be awarded $1,000 and $500, respectively. In the meantime, watch for additional bounties that will be announced closer to the start of the hackathon!
+To help you scope out your projects, we've identified a range of governance challenges motivated by the real issues faced by Web3 communities. Challenge areas in **bold** are funded, meaning that you can earn additional bounties (whether or not you win a prize above) for submitting a proposal that answers that challenge. The winner and runner-up of each funded challenge area described will be awarded $1,000 and $500, respectively. In the meantime, watch for additional bounties that will be announced closer to the start of the hackathon!
 
 * **Re-imagine the NEAR Community Fund.** [NEAR’s Community Fund](https://gov.near.org/t/community-fund-i-wiki/139) is a 5M $NEAR / 1.5M USD fund that supports DAOs, councils, and communities building on NEAR; it’s also the main entity funding this hackathon. It’s currently run by a council of ~7 people using simple up/down voting on Discourse proposals. In this challenge area, teams will propose improvements and/or completely new mechanisms for making distributions from the Community Fund. We’re especially interested in proposals that can make the process more decentralized and more participatory.
 * **Govern the Rainbow Bridge.** The [Rainbow Bridge](https://near.org/blog/the-rainbow-bridge-is-live/) is a new relay between Ethereum and NEAR, but we need to incentivize people to operate it. In this challenge, area you will submit a socio-technical design for a new Rainbow DAO to govern the Rainbow Bridge, incentivize contributions, and protect its future. Feel free to adapt the existing proposal, which you can find [here (see “Incentives”)](https://near.org/blog/eth-near-rainbow-bridge/).
@@ -38,6 +38,14 @@ This hackathon is a bit special: we're running it *entirely through DAOs*. That 
 
 New to DAOs? Take a look at [this excellent, up-to-date review](https://www.notboring.co/p/the-dao-of-daos) of the DAO phenomenon.
 
+# Introducing the new tools of governance
+We have a ton of special governance workshops, events, and opportunities for you to train and build skills for the hackathon. We're also curating access to a range of tools that might help you expand your experiments.
+
+1. [Sputnik DAO](https://sputnik.fund/): NEAR's premier DAO technology, Sputnik DAOs offer an easy, accessible platform for collective decision-making on the blockchain
+2. [Metagov Prototype](http://docs.metagov.org/): a unified API gateway that helps developers access and hook up several governance services & platforms. Metagov currently has plugins for connecting to [Open Collective](https://opencollective.com/), [Loomio](https://www.loomio.org/), [SourceCred](https://sourcecred.io), [Discourse](https://www.discourse.org/), and [NEAR](https://docs.near.org/). Metagov is in the early prototype phase; contributions and feedback are welcome! The Metagov Prototype API can be used directly by a backend service or script, or it can be accessed through PolicyKit.
+3. [PolicyKit](https://www.policykit.org): PolicyKit is a framework for authoring governance procedures and policies directly on top of social platforms. It has direct integrations with Slack, Discourse, Discord, and Reddit. It is also integrated with Metagov, enabling governance policies to invoke any governance services or platforms that are made available through the [Metagov Prototype API](https://prototype.metagov.org/redoc/).
+4. [SourceCred](https://sourcecred.io): SourceCred is a reputation algorithm helps communities measure and reward value creation
+
 # Judging criteria
 Challenge entries must consist of a proposal, a slide presentation, and a GitHub repo with code (where relevant). Entries will be judged on four criteria:
 
@@ -48,13 +56,13 @@ Challenge entries must consist of a proposal, a slide presentation, and a GitHub
 
 We want to emphasize something: *entries do not have to be technical*. We encourage a mix of technical and social innovation---remember, blockchain itself is, at its core, a social innovation as well as a technical one!
 
-# Introducing the new tools of governance
-We have a ton of special governance workshops, events, and opportunities for you to train and build skills for the hackathon. We're also curating access to a range of tools that might help you expand your experiments.
+# How to submit
 
-1. [Sputnik DAO](https://sputnik.fund/): NEAR's premier DAO technology, Sputnik DAOs offer an easy, accessible platform for collective decision-making on the blockchain
-2. [Metagov Prototype](http://docs.metagov.org/): a unified API gateway that helps developers access and hook up several governance services & platforms. Metagov currently has plugins for connecting to [Open Collective](https://opencollective.com/), [Loomio](https://www.loomio.org/), [SourceCred](https://sourcecred.io), [Discourse](https://www.discourse.org/), and [NEAR](https://docs.near.org/). Metagov is in the early prototype phase; contributions and feedback are welcome! The Metagov Prototype API can be used directly by a backend service or script, or it can be accessed through PolicyKit.
-3. [PolicyKit](https://www.policykit.org): PolicyKit is a framework for authoring governance procedures and policies directly on top of social platforms. It has direct integrations with Slack, Discourse, Discord, and Reddit. It is also integrated with Metagov, enabling governance policies to invoke any governance services or platforms that are made available through the [Metagov Prototype API](https://prototype.metagov.org/redoc/).
-4. [SourceCred](https://sourcecred.io): SourceCred is a reputation algorithm helps communities measure and reward value creation
+To participate, post your proposal to the [Governance Category](https://gov.near.org/c/gov/6/l/latest) of the NEAR Forum with tag “metagov”. Please use [this template proposal](https://gov.near.org/t/proposal-example-project-proposal/1578) to structure your post.
+
+Then submit a payout proposal to the [Metagov SputnikDAO](https://sputnik.fund/#/metagov.sputnikdao.near) linking your forum post, with the appropriate payout target (this will be your project DAO if you created one). Judges will use the link provided to make a voting decision on your proposal.
+
+Please only use only one forum thread per submission (you can reuse the same forum post from the activation week for the main challenge / for bounties). Posts to the forum can be edited or replied to if you need to add content to a submission.
 
 # Legal disclaimer
 We may add changes and clarifications to the rules above. When changes occur, we'll let you know by email.
