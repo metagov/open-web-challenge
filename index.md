@@ -10,6 +10,7 @@ This is the portal for the upcoming Open Web Governance Challenge, part of the [
 * More questions? [Join our Telegram](https://t.me/governance_challenge).
 
 # Calendar
+All times are EST.
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shryU24x71Du3IBq1?backgroundColor=pink&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
