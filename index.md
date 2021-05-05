@@ -2,11 +2,12 @@ This is the portal for the upcoming Open Web Governance Challenge, part of the [
 
 # Key details and dates
 
-* Focus on blockchains, decentralized autonomous organizations (DAOs), and governance.
-* Kickoff is May 14 at 11am EST (GMT-4).
+* Focus on the governance of blockchains, decentralized autonomous organizations (DAOs), and online communities.
 * $25,000 USD in prizes, with $5,000 to be released in the first week!
-* Three weeks of workshops and events from May 14 to June 6.
+* The hackathon [kickoff conference](http://summit.openweb.community/) is May 14; come to the governance launch at 11am EST (GMT-4).
+* Three weeks of workshops and events from May 14 to June 6. 
 * The next Q&A session is _May 8 at 12pm EST_ ([register here](https://stanford.zoom.us/meeting/register/tJEocOivqjwpGNIxZKvw_wLT3f7BXkck8LrC) for link)!
+* Looking for team? Join a team-building sessions on May 14 and May 15!
 * More questions? [Join our Telegram](https://t.me/governance_challenge).
 
 # Calendar
@@ -14,8 +15,15 @@ All times are EST.
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shryU24x71Du3IBq1?backgroundColor=pink&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-# Challenge areas
-To help you scope out your projects, we've identified a range of challenge areas motivated by NEAR's own governance problems.
+# Prizes
+First place: $5,000 USD
+Second place: $2,000 USD
+Honorary mentions: $500 USD
+
+Plus $10,000+ worth of bounties—-see below.
+
+# Challenge areas and bounties
+To help you scope out your projects, we've identified a range of governance challenges motivated by the real issues faced by Web3 communities. Many of these challenge areas are funded, meaning that you can earn bounties for submitting a proposal that answers that challenge; the winner and runner-up of each funded challenge area described will be awarded $1,200 and $800, respectively. Watch for additional bounties that will be announced closer to the start of the hackathon!
 
 * **Re-imagine the NEAR Community Fund.** [NEAR’s Community Fund](https://gov.near.org/t/community-fund-i-wiki/139) is a 5M $NEAR / 1.5M USD fund that supports DAOs, councils, and communities building on NEAR; it’s also the main entity funding this hackathon. It’s currently run by a council of ~7 people using simple up/down voting on Discourse proposals. In this challenge area, teams will propose improvements and/or completely new mechanisms for making distributions from the Community Fund. We’re especially interested in proposals that can make the process more decentralized and more participatory.
 * **Govern the Rainbow Bridge.** The [Rainbow Bridge](https://near.org/blog/the-rainbow-bridge-is-live/) is a new relay between Ethereum and NEAR, but we need to incentivize people to operate it. In this challenge, area you will submit a socio-technical design for a new Rainbow DAO to govern the Rainbow Bridge, incentivize contributions, and protect its future. Feel free to adapt the existing proposal, which you can find [here (see “Incentives”)](https://near.org/blog/eth-near-rainbow-bridge/).
@@ -23,10 +31,7 @@ To help you scope out your projects, we've identified a range of challenge areas
 * **Develop the NEAR Metagov Plugin**. The Metagov Prototype has a a rudimentary [NEAR plugin](https://github.com/metagov/metagov-prototype/tree/master/metagov/metagov/plugins/near) that can make function calls to a NEAR contract. For this challenge, you will extend the NEAR Plugin to implement a [listener](https://docs.metagov.org/en/latest/plugin_tutorial.html#listener) for reacting to on-chain transactions. This may require building or running a NEAR Indexer, or using an existing tool like [Figment's NEAR Indexer REST API](https://learn.figment.io/network-documentation/near/enriched-apis/indexer-api). The purpose of this challenge is to support governance policies that are "triggered" by on-chain transactions. For example, supporting a PolicyKit policy like: "when my community passes a proposal in our SputnikDAO, reward the proposer by granting them a specific Discourse badge on our community forum."
 * **Experiment with PolicyKit and the Metagov Prototype.** In this challenge area, teams will propose PolicyKit policies that address governance problems for communities that exist on 2 or more governance platforms (DAOs, Discourse community forums, SourceCred instances, Open Collective collectives, and so on). Take a look at the [PolicyKit Policy Library](https://policykit.readthedocs.io/en/latest/sample_policies.html) for examples of policies that use Metagov. We’re hoping to see some creative proposals that address real-world governance problems – it’s okay if they aren’t technically possible with the current PolicyKit and Metagov features and plugins.
 * **Experiment with DAO-to-DAO interactions.** There’s a lot of excitement right now in building DAO-to-DAO interactions. Just take a look at [recent research](https://medium.com/primedao/conceptual-models-for-dao2dao-relations-ac2b2d3cc84d) produced by the PrimeDAO / Curve Labs / Block Science team. In this challenge area, hackathon team will propose and build some new DAO-to-DAO contracts, e.g. a contract that NEAR’s Community DAO can use to fund a Metagov DAO to organize a hackathon, or a contract that transfers an Aragon DAO on Ethereum into a Sputnik DAO on NEAR, or a contract that sets up a cross-platform, cross-platform DAO (kind of like a multinational corporation). We’re hoping to see some really creative entries in this category!
-* **Propose your own challenge.** This is our take on the “other” option. Maybe you have a good idea that doesn’t fit into any of the challenge areas above. So submit your own governance challenge to Metagov. If it’s accepted, you’ll get $100 just for writing the challenge, $1000 if you complete it, and $500 if ANYONE completes the challenge. If you want to take this option, please submit a $100 proposal to the [Metagov DAO](https://sputnik.fund/#/metagov.sputnikdao.near) *within the first week of the challenge*.
-
-# Prizes
-The winner and runner-up of each challenge area described will be awarded $1,200 and $800, respectively. The $5,000 top prize will be awarded to the overall winner of the governance challenge. And watch for additional bounties that will be announced closer to the start of the hackathon!
+* **Propose your own challenge.** This is our take on the “other” option. Maybe you have a good idea that doesn’t fit into any of the challenge areas above. So submit your own governance challenge to Metagov. If it’s accepted, you’ll get $100 just for writing the challenge and $500 if ANYONE (including yourself) completes the challenge. If you want to take this option, please submit your proposal to the [Metagov DAO](https://sputnik.fund/#/metagov.sputnikdao.near) *within the first week of the challenge*.
 
 # Starter week
 This hackathon is a bit special: we're running it *entirely through DAOs*. That means you'll need to register through a DAO and that the vast majority of hackathon prizes will be awarded through a DAO on NEAR to a DAO that you create. To make that prospect sweeter, we're encouraging people to get onboard early with $5,000 in prizes to be distributed in the first week. To qualify for a 30 NEAR payout (~ $120 USD), all you have to do is register a Sputnik DAO for your project, have a council with your team as voting members, and submit a 500-word draft proposal to the [Metagov DAO](https://sputnik.fund/#/metagov.sputnikdao.near) *within the first week of the hackathon*. In addition to the direct payout, a submission will also qualify you for a round of special prizes.
