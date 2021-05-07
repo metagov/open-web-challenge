@@ -6,6 +6,7 @@ This is the portal for the upcoming Open Web Governance Challenge, part of the [
 * $25,000 USD in prizes, with $5,000 to be released in the first week!
 * The hackathon [kickoff conference](http://summit.openweb.community/) is May 14; come to the governance launch at 11am EST (GMT-4).
 * Three weeks of workshops and events from May 14 to June 6. 
+* *Entries do not have to be technical*
 * The next Q&A session is _May 8 at 12pm EST_ ([register here](https://stanford.zoom.us/meeting/register/tJEocOivqjwpGNIxZKvw_wLT3f7BXkck8LrC) for link)!
 * Looking for team? Join a team-building sessions on May 14 and May 15!
 * More questions? [Join our Telegram](https://t.me/governance_challenge), reply to [our forum post](https://gov.near.org/t/proposal-example-project-proposal/1578), or join the [NEAR Discord](https://discord.gg/KGgwXNCekf).
