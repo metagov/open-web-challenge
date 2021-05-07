@@ -46,6 +46,12 @@ We have a ton of special governance workshops, events, and opportunities for you
 3. [PolicyKit](https://www.policykit.org): PolicyKit is a framework for authoring governance procedures and policies directly on top of social platforms. It has direct integrations with Slack, Discourse, Discord, and Reddit. It is also integrated with Metagov, enabling governance policies to invoke any governance services or platforms that are made available through the [Metagov Prototype API](https://prototype.metagov.org/redoc/).
 4. [SourceCred](https://sourcecred.io): SourceCred is a reputation algorithm helps communities measure and reward value creation
 
+#### Using Metagov Prototype & PolicyKit
+
+If you're using PolicyKit and/or the Metagov Prototype for the governance challenge, we recommend running your own instances of each. That will require setting up a new server, [installing Metagov](https://docs.metagov.org/en/latest/installation.html), and [installing PolicyKit](https://policykit.readthedocs.io/en/latest/gettingstarted.html).
+
+We'll also have a hosted version of PolicyKit (link coming soon!) so you can play around with the metagov-enabled policy editor without setting up your own server.
+
 # Judging criteria
 Challenge entries must consist of a proposal, a slide presentation, and a GitHub repo with code (where relevant). Entries will be judged on four criteria:
 
