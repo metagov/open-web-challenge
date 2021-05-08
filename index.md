@@ -74,11 +74,11 @@ Please only use only one forum thread per submission (you can reuse the same for
 
 # Organizers
 
-Josh             |  Miriam
-:-------------------------:|:-------------------------:
-![](/headshots/josh.jpg)  |  ![](/headshots/josh.jpg)
-
-
+<p float="left">
+  <img src="/headshots/josh.jpg" width="100" />
+  <img src="/headshots/miriam.jpeg" width="100" /> 
+  <img src="/headshots/eugene.jpg" width="100" />
+</p>
 
 # Legal disclaimer
 We may add changes and clarifications to the rules above. When changes occur, we'll let you know by email.
