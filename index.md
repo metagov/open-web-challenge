@@ -72,6 +72,14 @@ Then submit a payout proposal to the [Metagov SputnikDAO](https://sputnik.fund/#
 
 Please only use only one forum thread per submission (you can reuse the same forum post from the activation week for the main challenge / for bounties). Posts to the forum can be edited or replied to if you need to add content to a submission.
 
+# Organizers
+
+Josh             |  Miriam
+:-------------------------:|:-------------------------:
+![](/headshots/josh.jpg)  |  ![](/headshots/josh.jpg)
+
+
+
 # Legal disclaimer
 We may add changes and clarifications to the rules above. When changes occur, we'll let you know by email.
 
