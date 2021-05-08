@@ -80,6 +80,11 @@ Please only use only one forum thread per submission (you can reuse the same for
   <img src="/headshots/eugene.jpg" width="100" />
 </p>
 
+Joshua Tan             |  Miriam Ashton             |  Eugene Leventhal
+:-------------------------:|:-------------------------:|:-------------------------:
+![](/headshots/josh.jpg)  |  ![](/headshots/miriam.jpeg)  |  ![](/headshots/eugene.jpg)
+
+
 # Legal disclaimer
 We may add changes and clarifications to the rules above. When changes occur, we'll let you know by email.
 
