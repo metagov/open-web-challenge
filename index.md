@@ -74,9 +74,9 @@ Please only use only one forum thread per submission (you can reuse the same for
 
 # Organizers
 
-[Joshua Tan](www.joshuatan.com/research)             |  [Miriam Ashton](https://www.linkedin.com/in/miriamashton/)             |  [Eugene Leventhal](https://www.linkedin.com/in/eugene-leventhal/)
+[Joshua Tan](https://www.joshuatan.com/research)             |  [Miriam Ashton](https://www.linkedin.com/in/miriamashton/)             |  [Eugene Leventhal](https://www.linkedin.com/in/eugene-leventhal/)
 :-------------------------:|:-------------------------:|:-------------------------:
-[![Josh](/headshots/josh.jpg)](www.joshuatan.com/research)  |  [![Miriam](/headshots/miriam.jpeg)](https://www.linkedin.com/in/miriamashton/)  |  [![Eugene](/headshots/eugene.jpg)](https://www.linkedin.com/in/eugene-leventhal/)
+[![Josh](/headshots/josh.jpg)](https://www.joshuatan.com/research)  |  [![Miriam](/headshots/miriam.jpeg)](https://www.linkedin.com/in/miriamashton/)  |  [![Eugene](/headshots/eugene.jpg)](https://www.linkedin.com/in/eugene-leventhal/)
 
 # Legal disclaimer
 We may add changes and clarifications to the rules above. When changes occur, we'll let you know by email.
