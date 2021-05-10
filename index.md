@@ -46,7 +46,7 @@ Are you facing a problem but don't know what the solution should be (or how to b
 
 Note that "propose your own challenge" proposals _do not_ count as project proposals for the sake of "starter week" payouts (see above).
 
-If you want to take this option, write a Discourse post describing the challenge (follow the [how to enter a submission](#ow-to-enter-a-submission) section below) and submit a payout proposal to the [Metagov DAO](https://sputnik.fund/#/metagov.sputnikdao.near) *within the first week of the challenge* (May 22nd). Note that there’s a finite prize pool for "propose your own" payouts, so proposals will be answered first-come-first-serve. The challenge organizers reserve the right to decide whether a project sufficiently answers your challenge.
+If you want to take this option, write a Discourse post describing the challenge (follow the [how to enter a submission](#how-to-enter-a-submission) section below) and submit a payout proposal to the [Metagov DAO](https://sputnik.fund/#/metagov.sputnikdao.near) *within the first week of the challenge* (May 22nd). Note that there’s a finite prize pool for "propose your own" payouts, so proposals will be answered first-come-first-serve. The challenge organizers reserve the right to decide whether a project sufficiently answers your challenge.
 
 # Introducing the new tools of governance
 We have a ton of special governance workshops, events, and opportunities for you to train and build skills for the hackathon. We're also curating access to a range of tools that might help you expand your experiments.
