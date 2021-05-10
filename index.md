@@ -33,7 +33,8 @@ To help you scope out your projects, we've identified a range of governance chal
 * **Experiment with PolicyKit and the Metagov Prototype.** In this challenge area, teams will propose PolicyKit policies that address governance problems for communities that exist on 2 or more governance platforms (DAOs, Discourse community forums, SourceCred instances, Open Collective collectives, and so on). Take a look at the [PolicyKit Policy Library](https://policykit.readthedocs.io/en/latest/sample_policies.html) for examples of policies that use Metagov. We’re hoping to see some creative proposals that address real-world governance problems – it’s okay if they aren’t technically possible with the current PolicyKit and Metagov features and plugins.
 * **Experiment with DAO-to-DAO interactions.** There’s a lot of excitement right now in building DAO-to-DAO interactions. Just take a look at [recent research](https://medium.com/primedao/conceptual-models-for-dao2dao-relations-ac2b2d3cc84d) produced by the PrimeDAO / Curve Labs / Block Science team. In this challenge area, hackathon team will propose and build some new DAO-to-DAO contracts, e.g. a contract that NEAR’s Community DAO can use to fund a Metagov DAO to organize a hackathon, or a contract that transfers an Aragon DAO on Ethereum into a Sputnik DAO on NEAR, or a contract that sets up a cross-platform, cross-platform DAO (kind of like a multinational corporation). We’re hoping to see some really creative entries in this category!
 * _Make Web3 billing more secure and more convenient for contractors._ The Web3 space is still in its infancy, particularly in terms of methods and best practices. This makes estimating design and development work nearly impossible. More often than not requirements and methods are being developed as products and primitives are created and tested.  However, the predominant means of funding for work in DAOs and blockchains is a grant-based system where funds are unlocked in lump sums based on proposals approved by the community. This creates a risk vector for contractors, particularly if the billed amount surpasses the unlocked funds. The contractor at this point is faced with a choice between stopping work while waiting for additional funds to be unlocked, possibly suffering a loss in reputation and/or subsequent work with said community, or continuing work with the potential risk of not having the community sanction additional funds to cover extra work. To ensure rapid growth within the DAO space and to attract more competent contractors there needs to be a method for allowing continuous funding for project within the DAO framework.
-* **Propose your own challenge.** Are you facing a problem but don't know what the solution should be (or how to build it)? If so, consider submitting your own governance challenge to Metagov. If your challenge is accepted, your challenge will go on the list above, and you’ll get 20 NEAR just for writing the challenge and 100 NEAR if ANYONE (including yourself) answers the challenge. See below for more details.
+* **Propose your own challenge.** Are you facing a problem but don't know what the solution should be (or how to build it)? If so, consider submitting your own governance challenge to Metagov. If your challenge is accepted, your challenge will go on the list above, and you’ll get 20 NEAR just for writing the challenge and 100 NEAR if ANYONE (including yourself) answers the challenge. See [below](#propose-your-own-challenge) for more details.
+
 
 # Starter week
 This hackathon is a bit special: we're running it *entirely through DAOs*. That means you'll need to register through a DAO and that the vast majority of hackathon prizes will be awarded through a DAO on NEAR to a DAO that you create. To make that prospect sweeter, we're encouraging people to get onboard early with $5,000 in prizes to be distributed in the first week. To qualify for a 30 NEAR payout (~ $120 USD), all you have to do is register a [Sputnik DAO](https://sputnik.fund/) for your project, have a council with your team as voting members, and submit a 500-word draft proposal to the [Metagov DAO](https://sputnik.fund/#/metagov.sputnikdao.near) *within the first week of the hackathon*. In addition to the direct payout, a submission will also qualify you for a round of special prizes. Note that there's a finite prize pool for payouts, so proposals will be answered first-come-first-serve.
@@ -45,7 +46,7 @@ Are you facing a problem but don't know what the solution should be (or how to b
 
 Note that "propose your own challenge" proposals _do not_ count as project proposals for the sake of "starter week" payouts (see above).
 
-If you want to take this option, write a Discourse post describing the challenge (follow the "how to submit" section below) and submit a payout proposal to the [Metagov DAO](https://sputnik.fund/#/metagov.sputnikdao.near) *within the first week of the challenge* (May 22nd). Note that there’s a finite prize pool for "propose your own" payouts, so proposals will be answered first-come-first-serve. The challenge organizers reserve the right to decide whether a project sufficiently answers your challenge.
+If you want to take this option, write a Discourse post describing the challenge (follow the [how to enter a submission](#ow-to-enter-a-submission) section below) and submit a payout proposal to the [Metagov DAO](https://sputnik.fund/#/metagov.sputnikdao.near) *within the first week of the challenge* (May 22nd). Note that there’s a finite prize pool for "propose your own" payouts, so proposals will be answered first-come-first-serve. The challenge organizers reserve the right to decide whether a project sufficiently answers your challenge.
 
 # Introducing the new tools of governance
 We have a ton of special governance workshops, events, and opportunities for you to train and build skills for the hackathon. We're also curating access to a range of tools that might help you expand your experiments.
@@ -62,7 +63,7 @@ If you're using PolicyKit and/or the Metagov Prototype for the governance challe
 We'll also have a hosted version of PolicyKit (link coming soon!) so you can play around with the metagov-enabled policy editor without setting up your own server.
 
 # Judging criteria
-Challenge entries must consist of a proposal, a slide presentation, and a GitHub repo with code (where relevant). Entries will be judged on four criteria:
+Challenge entries must consist of a submission post, a slide presentation, and a GitHub repo with code (where relevant). Entries will be judged on four criteria:
 
 * **Impactful**: does the project solve a specific problem, generate meaningful information, or benefit a wide section of the open web ecosystem?
 * **Creative**: how is the project different (and better) from previous alternatives? Be audacious.
@@ -71,13 +72,15 @@ Challenge entries must consist of a proposal, a slide presentation, and a GitHub
 
 We want to emphasize something: *entries do not have to be technical*. We encourage a mix of technical and social innovation---remember, blockchain itself is, at its core, a social innovation as well as a technical one!
 
-# How to submit
 
-To participate, post your proposal to the [Governance Category](https://gov.near.org/c/gov/6/l/latest) of the NEAR Forum with tag “metagov”. Please use [this template proposal](https://gov.near.org/t/proposal-example-project-proposal/1578) to structure your post.
+# How to enter a submission
+_Due: 5pm EST on June 5th_
 
-Then submit a payout proposal to the [Metagov SputnikDAO](https://sputnik.fund/#/metagov.sputnikdao.near) linking your forum post, with the appropriate payout target (this will be your project DAO if you created one). Judges will use the link provided to make a voting decision on your proposal.
+Post your submission to the [Governance Category](https://gov.near.org/c/gov/6/l/latest) of the NEAR Forum with tag “metagov. Please use [this template](https://gov.near.org/t/proposal-example-project-proposal/1578) to structure your post.
 
-Please only use only one forum thread per submission (you can reuse the same forum post from the activation week for the main challenge / for bounties). Posts to the forum can be edited or replied to if you need to add content to a submission.
+Add a new payout proposal for 0 NEAR to the [Metagov SputnikDAO](https://sputnik.fund/#/metagov.sputnikdao.near). The payout target should be your team's DAO. Include a link to your forum post. Judges will use the link provided to make a voting decision on your submission.
+
+Please only use only one forum thread per submission. Posts to the forum can be edited or replied to if you need to add content to a submission.
 
 
 # Organizers
