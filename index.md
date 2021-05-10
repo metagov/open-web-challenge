@@ -76,7 +76,7 @@ We want to emphasize something: *entries do not have to be technical*. We encour
 # How to enter a submission
 _Due: 5pm EST on June 5th_
 
-Post your submission to the [Governance Category](https://gov.near.org/c/gov/6/l/latest) of the NEAR Forum with tag “metagov. Please use [this template](https://gov.near.org/t/proposal-example-project-proposal/1578) to structure your post.
+Post your submission to the [Governance Category](https://gov.near.org/c/gov/6/l/latest) of the NEAR Forum with tag "metagov". Please use [this template](https://gov.near.org/t/proposal-example-project-proposal/1578) to structure your post.
 
 Add a new payout proposal for 0 NEAR to the [Metagov SputnikDAO](https://sputnik.fund/#/metagov.sputnikdao.near). The payout target should be your team's DAO. Include a link to your forum post. Judges will use the link provided to make a voting decision on your submission.
 
