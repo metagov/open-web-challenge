@@ -60,7 +60,7 @@ We have a ton of special governance workshops, events, and opportunities for you
 
 If you're using PolicyKit and/or the Metagov Prototype for the governance challenge, we recommend running your own instances of each. That will require setting up a new server, [installing Metagov](https://docs.metagov.org/en/latest/installation.html), and [installing PolicyKit](https://policykit.readthedocs.io/en/latest/gettingstarted.html).
 
-We'll also have a hosted version of PolicyKit (link coming soon!) so you can play around with the metagov-enabled policy editor without setting up your own server.
+There is also a hosted version of PolicyKit at [gov-challenge-policykit.metagov.org/main](https://gov-challenge-policykit.metagov.org/main) which you can use to play around with Metagov-enabled policy authoring without setting up your own server. You can install this PolicyKit instance to your Slack, Discord, or Discourse community.
 
 # Judging criteria
 Challenge entries must consist of a submission post, a slide presentation, and a GitHub repo with code (where relevant). Entries will be judged on four criteria:
