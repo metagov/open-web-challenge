@@ -7,8 +7,8 @@ This is the portal for the upcoming Open Web Governance Challenge, part of the [
 * The hackathon [kickoff conference](http://summit.openweb.community/) is May 14; come to the governance launch at 11am EST (GMT-4).
 * Three weeks of workshops and events from May 14 to June 6. 
 * *Entries do not have to be technical*
-* The next Q&A session is _May 8 at 12pm EST_ ([register here](https://stanford.zoom.us/meeting/register/tJEocOivqjwpGNIxZKvw_wLT3f7BXkck8LrC) for link)!
 * Looking for team? Join a team-building sessions on May 14 and May 15!
+* Interested in using PolicyKit or the Metagov Prototype? Attend the [Metagov & PolicyKit Workshop](https://createbase.community/event/metagov-policykit-workshop/) at 1pm ET on Saturday May 15th.
 * More questions? [Join our Telegram](https://t.me/governance_challenge), reply to [our forum post](https://gov.near.org/t/proposal-example-project-proposal/1578), or join the [NEAR Discord](https://discord.gg/KGgwXNCekf).
 
 # Calendar
@@ -62,6 +62,8 @@ If you're using PolicyKit and/or the Metagov Prototype for the governance challe
 
 There is also a hosted version of PolicyKit at [gov-challenge-policykit.metagov.org/main](https://gov-challenge-policykit.metagov.org/main) which you can use to play around with Metagov-enabled policy authoring without setting up your own server. You can install this PolicyKit instance to your Slack, Discord, or Discourse community.
 
+Participants interested in using these tools are encouraged to attend the [Metagov & PolicyKit Workshop](https://createbase.community/event/metagov-policykit-workshop/) at 1pm ET on Saturday May 15th.
+
 # Judging criteria
 Challenge entries must consist of a submission post, a slide presentation, and a GitHub repo with code (where relevant). Entries will be judged on four criteria:
 
@@ -73,7 +75,7 @@ Challenge entries must consist of a submission post, a slide presentation, and a
 We want to emphasize something: *entries do not have to be technical*. We encourage a mix of technical and social innovation---remember, blockchain itself is, at its core, a social innovation as well as a technical one!
 
 # How to enter a submission
-_Due: 5pm EST on June 5th_
+_Due: 12pm ET on June 5th_
 
 Post your submission to the [Governance Category](https://gov.near.org/c/gov/6/l/latest) of the NEAR Forum with tag "metagov". Please use [this template](https://gov.near.org/t/proposal-example-project-proposal/1578) to structure your post.
 
