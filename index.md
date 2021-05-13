@@ -68,32 +68,13 @@ Participants interested in using these tools are encouraged to attend the [Metag
 # Governance data sets
 The data science of governance design is an emerging field, with the best examples representing written and software rules from online communities.
 
-_Govbase's DAOs in the Wild_ is a table of DAOs and how they are governed. [Govbase](https://thelastjosh.medium.com/introducing-govbase-97884b0ddaef) itself is a comprehensive data set of software projects and organizations in online governance.
-* Data: https://airtable.com/shrIxJgYLurzJ3xYC
-
-_The MakerDAO governance subgraph_ includes all the data on voters and votes for MakerDAO.
-* Data: https://thegraph.com/explorer/subgraph/protofire/makerdao-governance
-
-_The Cryptovernance Governance Assessments_ include a range of qualitative survey responses to a comprehensive governance questionnaire.
-* Data: https://cryptogov.net/participating-projects/
-
-_DeepDAO_ has tracked key indicators for a range of major DAOs.
-* Data: https://deepdao.io/
-
-_Fiesler et al._ classify the written rules of Reddit subreddits according to their type and subject. One project might try to improve upon their classifier with more recent NLP techniques.
-* Fiesler, C., Jiang, J., McCann, J., Frye, K., & Brubaker, J. (2018, June). Reddit rules! characterizing an ecosystem of governance. In Proceedings of the International AAAI Conference on Web and Social Media (Vol. 12, No. 1).
-* Paper: https://ojs.aaai.org/index.php/ICWSM/article/view/15033
-* Data: https://0w.uk/rg4bb
-
-_Chandrasekharan et al._ look at the actual use of such rules, with data on Reddit user comments that were removed by sub moderators. A feature of this dataset is that many of these flagged comments are annotated with the text of the rule that was violated. One project might build a predictor of which rules will be flagged, and on what grounds. This is the largest and best annotated and documented of the datasets
-* Chandrasekharan, E., Samory, M., Jhaver, S., Charvat, H., Bruckman, A., Lampe, C., ... & Gilbert, E. (2018). The Internet's hidden rules: An empirical study of Reddit norm violations at micro, meso, and macro scales. Proceedings of the ACM on Human-Computer Interaction, 2(CSCW), 1-25.
-* Paper: https://doi.org/10.1145/3274301
-* Data: https://github.com/ceshwar/reddit-norm-violations
-
-_Frey and Sumner_ look at a different domain, self-hosted Minecraft servers, to compare the governance plugins that amateur administrators install with the success that they achieved at building a core group of returning users. It gives a unique perspective into the "folk theory" of governance design: what governance structures people use when they don't know better. One project might replicate and then creatively extend the paper's findings.
-* Frey, S., & Sumner, R. W. (2019). Emergence of integrated institutions in a large population of self-governing communities. PloS one, 14(7), e0216335.
-* Paper: http://doi.org/c76k
-* Data: https://doi.org/gccz
+1. _Govbase's DAOs in the Wild_ is a table of DAOs and how they are governed. [Govbase](https://thelastjosh.medium.com/introducing-govbase-97884b0ddaef) itself is a comprehensive data set of software projects and organizations in online governance. Data: https://airtable.com/shrIxJgYLurzJ3xYC
+2. _The MakerDAO governance subgraph_ includes all the data on voters and votes for MakerDAO. Data: https://thegraph.com/explorer/subgraph/protofire/makerdao-governance
+3. _The Cryptovernance Governance Assessments_ include a range of qualitative survey responses to a comprehensive governance questionnaire. Data: https://cryptogov.net/participating-projects/
+4. _DeepDAO_ has tracked key indicators for a range of major DAOs. Data: [https://deepdao.io/]
+4. _Fiesler et al._ classify the written rules of Reddit subreddits according to their type and subject. One project might try to improve upon their classifier with more recent NLP techniques. Paper: https://ojs.aaai.org/index.php/ICWSM/article/view/15033. Data: [https://0w.uk/rg4bb]
+5. _Chandrasekharan et al._ look at the actual use of such rules, with data on Reddit user comments that were removed by sub moderators. A feature of this dataset is that many of these flagged comments are annotated with the text of the rule that was violated. One project might build a predictor of which rules will be flagged, and on what grounds. This is the largest and best annotated and documented of the datasets. Paper: https://doi.org/10.1145/3274301. Data: [https://github.com/ceshwar/reddit-norm-violations]
+6. _Frey and Sumner_ look at a different domain, self-hosted Minecraft servers, to compare the governance plugins that amateur administrators install with the success that they achieved at building a core group of returning users. It gives a unique perspective into the "folk theory" of governance design: what governance structures people use when they don't know better. One project might replicate and then creatively extend the paper's findings. Paper: http://doi.org/c76k. Data: [https://doi.org/gccz]
 
 # Judging criteria
 Challenge entries must consist of a submission post, a slide presentation, and a GitHub repo with code (where relevant). Entries will be judged on four criteria:
