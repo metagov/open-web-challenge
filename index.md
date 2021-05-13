@@ -34,6 +34,7 @@ To help you scope out your projects, we've identified a range of governance chal
 * **Experiment with DAO-to-DAO interactions.** There’s a lot of excitement right now in building DAO-to-DAO interactions. Just take a look at [recent research](https://medium.com/primedao/conceptual-models-for-dao2dao-relations-ac2b2d3cc84d) produced by the PrimeDAO / Curve Labs / Block Science team. In this challenge area, hackathon team will propose and build some new DAO-to-DAO contracts, e.g. a contract that NEAR’s Community DAO can use to fund a Metagov DAO to organize a hackathon, or a contract that transfers an Aragon DAO on Ethereum into a Sputnik DAO on NEAR, or a contract that sets up a cross-platform, cross-platform DAO (kind of like a multinational corporation). We’re hoping to see some really creative entries in this category!
 * _Make Web3 billing more secure and more convenient for contractors._ The Web3 space is still in its infancy, particularly in terms of methods and best practices. This makes estimating design and development work nearly impossible. More often than not requirements and methods are being developed as products and primitives are created and tested.  However, the predominant means of funding for work in DAOs and blockchains is a grant-based system where funds are unlocked in lump sums based on proposals approved by the community. This creates a risk vector for contractors, particularly if the billed amount surpasses the unlocked funds. The contractor at this point is faced with a choice between stopping work while waiting for additional funds to be unlocked, possibly suffering a loss in reputation and/or subsequent work with said community, or continuing work with the potential risk of not having the community sanction additional funds to cover extra work. To ensure rapid growth within the DAO space and to attract more competent contractors there needs to be a method for allowing continuous funding for project within the DAO framework. Challenge courtesy of [Magic Powered](https://magicpowered.io/).
 * _Build a tool to track "decisons" and "insights" directly on top of Telegram or Matrix._ For the last 9 months, members of the [DADA](http://dada.art/) art community have been collectively creating a new socio-economic system for the arts called [The Invisible Economy](https://powerdada.medium.com/the-invisible-economy-basic-income-9e2112f9b97d). Our governance process consists of continuous collective deliberation through sense-making sessions that take place on Google Meet, complemented with a Telegram chat. We don’t need a voting mechanism to make decisions. We need better, unified tools for deliberation that would make it easier to record decision making, organize ideas and insights, and weave a rhizomatic narrative without disrupting the natural flow of the conversations. A better tool for deliberation would: (1) Be able to open a decision, track its deliberation and record the result. (2) Easily search and find open decisions and closed decisions and their results. (3) Include a simple way to highlight an idea, insight, or reference. (4) Create a narrative of insights / ideas across channels. (4) Mirror as much as possible the natural flow of human conversation so that topics are more easily tracked and followed. For more, see [DADA's presentation](https://www.youtube.com/watch?v=IKdUMLBFyG4) on the idea. Challenge courtesy of [DADA](http://dada.art/).
+* _Draw significant insights from a governance data set._ For all you data scientists out there, we're not leaving you in the lurch. Do you have a data set you've been working work that you think could change how people govern themselves? Are you interested in looking at some existing data sets and making a guess . Governance is all about making decisions, and helps us make *informed* decisions. To help you out, we've organized some existing governance data sets that you can take a look at. See below.
 * **Propose your own challenge.** Are you facing a problem but don't know what the solution should be (or how to build it)? If so, consider submitting your own governance challenge to Metagov. If your challenge is accepted, your challenge will go on the list above, and you’ll get 20 NEAR just for writing the challenge and 100 NEAR if ANYONE (including yourself) answers the challenge. See [below](#propose-your-own-challenge) for more details.
 
 # Starter week
@@ -54,7 +55,7 @@ We have a ton of special governance workshops, events, and opportunities for you
 1. [Sputnik DAO](https://sputnik.fund/): NEAR's premier DAO technology, Sputnik DAOs offer an easy, accessible platform for collective decision-making on the blockchain
 2. [Metagov Prototype](http://docs.metagov.org/): a unified API gateway that helps developers access and hook up several governance services & platforms. Metagov currently has plugins for connecting to [Open Collective](https://opencollective.com/), [Loomio](https://www.loomio.org/), [SourceCred](https://sourcecred.io), [Discourse](https://www.discourse.org/), and [NEAR](https://docs.near.org/). Metagov is in the early prototype phase; contributions and feedback are welcome! The Metagov Prototype API can be used directly by a backend service or script, or it can be accessed through PolicyKit.
 3. [PolicyKit](https://www.policykit.org): PolicyKit is a framework for authoring governance procedures and policies directly on top of social platforms. It has direct integrations with Slack, Discourse, Discord, and Reddit. It is also integrated with Metagov, enabling governance policies to invoke any governance services or platforms that are made available through the [Metagov Prototype API](https://prototype.metagov.org/redoc/).
-4. [SourceCred](https://sourcecred.io): SourceCred is a reputation algorithm helps communities measure and reward value creation
+4. [SourceCred](https://sourcecred.io): SourceCred is a reputation algorithm helps communities measure and reward value creation.
 
 #### Using Metagov Prototype & PolicyKit
 
@@ -63,6 +64,36 @@ If you're using PolicyKit and/or the Metagov Prototype for the governance challe
 There is also a hosted version of PolicyKit at [gov-challenge-policykit.metagov.org/main](https://gov-challenge-policykit.metagov.org/main) which you can use to play around with Metagov-enabled policy authoring without setting up your own server. You can install this PolicyKit instance to your Slack, Discord, or Discourse community.
 
 Participants interested in using these tools are encouraged to attend the [Metagov & PolicyKit Workshop](https://createbase.community/event/metagov-policykit-workshop/) at 1pm ET on Saturday May 15th.
+
+# Governance data sets
+The data science of governance design is an emerging field, with the best examples representing written and software rules from online communities.
+
+_Govbase's DAOs in the Wild_ is a table of DAOs and how they are governed. [Govbase](https://thelastjosh.medium.com/introducing-govbase-97884b0ddaef) itself is a comprehensive data set of software projects and organizations in online governance.
+* Data: https://airtable.com/shrIxJgYLurzJ3xYC
+
+_The MakerDAO governance subgraph_ includes all the data on voters and votes for MakerDAO.
+* Data: https://thegraph.com/explorer/subgraph/protofire/makerdao-governance
+
+_The Cryptovernance Governance Assessments_ include a range of qualitative survey responses to a comprehensive governance questionnaire.
+* Data: https://cryptogov.net/participating-projects/
+
+_DeepDAO_ has tracked key indicators for a range of major DAOs.
+* Data: https://deepdao.io/
+
+_Fiesler et al._ classify the written rules of Reddit subreddits according to their type and subject. One project might try to improve upon their classifier with more recent NLP techniques.
+* Fiesler, C., Jiang, J., McCann, J., Frye, K., & Brubaker, J. (2018, June). Reddit rules! characterizing an ecosystem of governance. In Proceedings of the International AAAI Conference on Web and Social Media (Vol. 12, No. 1).
+* Paper: https://ojs.aaai.org/index.php/ICWSM/article/view/15033
+* Data: https://0w.uk/rg4bb
+
+_Chandrasekharan et al._ look at the actual use of such rules, with data on Reddit user comments that were removed by sub moderators. A feature of this dataset is that many of these flagged comments are annotated with the text of the rule that was violated. One project might build a predictor of which rules will be flagged, and on what grounds. This is the largest and best annotated and documented of the datasets
+* Chandrasekharan, E., Samory, M., Jhaver, S., Charvat, H., Bruckman, A., Lampe, C., ... & Gilbert, E. (2018). The Internet's hidden rules: An empirical study of Reddit norm violations at micro, meso, and macro scales. Proceedings of the ACM on Human-Computer Interaction, 2(CSCW), 1-25.
+* Paper: https://doi.org/10.1145/3274301
+* Data: https://github.com/ceshwar/reddit-norm-violations
+
+_Frey and Sumner_ look at a different domain, self-hosted Minecraft servers, to compare the governance plugins that amateur administrators install with the success that they achieved at building a core group of returning users. It gives a unique perspective into the "folk theory" of governance design: what governance structures people use when they don't know better. One project might replicate and then creatively extend the paper's findings.
+* Frey, S., & Sumner, R. W. (2019). Emergence of integrated institutions in a large population of self-governing communities. PloS one, 14(7), e0216335.
+* Paper: http://doi.org/c76k
+* Data: https://doi.org/gccz
 
 # Judging criteria
 Challenge entries must consist of a submission post, a slide presentation, and a GitHub repo with code (where relevant). Entries will be judged on four criteria:
