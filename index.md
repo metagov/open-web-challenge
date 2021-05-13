@@ -5,14 +5,14 @@ This is the portal for the upcoming Open Web Governance Challenge, part of the [
 * Focus on the governance of blockchains, decentralized autonomous organizations (DAOs), and online communities.
 * $25,000 USD in prizes, with $5,000 to be released in the first week!
 * The hackathon [kickoff conference](http://summit.openweb.community/) is May 14; come to the governance launch at 3pm EST.
-* Three weeks of workshops and events from May 14 to June 6. 
+* Three weeks of [workshops and events](https://www.airmeet.com/e/de5a63d0-a1f4-11eb-abd7-f5ba22c554bf) from May 14 to June 6. 
 * *Entries do not have to be technical*.
-* Looking for team? Join a team-building sessions on May 14 and May 15!
+* Looking for team? Join a [team-building sessions](https://www.airmeet.com/e/de5a63d0-a1f4-11eb-abd7-f5ba22c554bf) on May 14 and May 15!
 * Interested in using PolicyKit or the Metagov Prototype? Attend the [Metagov & PolicyKit Workshop](https://createbase.community/event/metagov-policykit-workshop/) at 1pm ET on Saturday May 15th.
 * More questions? [Join our Telegram](https://t.me/governance_challenge), reply to [our forum post](https://gov.near.org/t/proposal-example-project-proposal/1578), or join the [NEAR Discord](https://discord.gg/KGgwXNCekf).
 
 # Calendar
-All times are EST.
+All events will take place on the hackathon's [main Airmeet stage](https://www.airmeet.com/e/de5a63d0-a1f4-11eb-abd7-f5ba22c554bf). All times are EST.
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shryU24x71Du3IBq1?backgroundColor=pink&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
