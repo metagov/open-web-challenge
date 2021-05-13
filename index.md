@@ -1,12 +1,12 @@
-This is the portal for the upcoming Open Web Governance Challenge, part of the [Open Web Creators and Communities Hackathon](http://summit.openweb.community/). The challenge will begin on May 14, 2021 and end on June 6, 2021.
+This is the portal for the upcoming Open Web Governance Challenge, part of the [Open Web Creators and Communities Hackathon](https://createbase.community/hackathon/). The challenge will begin on May 14, 2021 and end on June 6, 2021.
 
 # Key details and dates
 
 * Focus on the governance of blockchains, decentralized autonomous organizations (DAOs), and online communities.
 * $25,000 USD in prizes, with $5,000 to be released in the first week!
-* The hackathon [kickoff conference](http://summit.openweb.community/) is May 14; come to the governance launch at 11am EST (GMT-4).
+* The hackathon [kickoff conference](http://summit.openweb.community/) is May 14; come to the governance launch at 3pm EST.
 * Three weeks of workshops and events from May 14 to June 6. 
-* *Entries do not have to be technical*
+* *Entries do not have to be technical*.
 * Looking for team? Join a team-building sessions on May 14 and May 15!
 * Interested in using PolicyKit or the Metagov Prototype? Attend the [Metagov & PolicyKit Workshop](https://createbase.community/event/metagov-policykit-workshop/) at 1pm ET on Saturday May 15th.
 * More questions? [Join our Telegram](https://t.me/governance_challenge), reply to [our forum post](https://gov.near.org/t/proposal-example-project-proposal/1578), or join the [NEAR Discord](https://discord.gg/KGgwXNCekf).
