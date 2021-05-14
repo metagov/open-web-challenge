@@ -1,5 +1,9 @@
 This is the portal for the upcoming Open Web Governance Challenge, part of the [Open Web Creators and Communities Hackathon](https://createbase.community/hackathon/). The challenge will begin on May 14, 2021 and end on June 6, 2021.
 
+**Latest**
+* Governance panel (Friday @ 3pm EST): register at [https://summit.openweb.community/](https://summit.openweb.community/)
+* Next team social (Friday @ 5pm EST): login at [https://www.airmeet.com/e/b8e5eed0-b4e1-11eb-84f8-01ed4c9714ff](https://www.airmeet.com/e/b8e5eed0-b4e1-11eb-84f8-01ed4c9714ff)
+
 # Key details and dates
 
 * Focus on the governance of blockchains, decentralized autonomous organizations (DAOs), and online communities.
