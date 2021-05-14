@@ -38,7 +38,7 @@ To help you scope out your projects, we've identified a range of governance chal
 * **Propose your own challenge.** Are you facing a problem but don't know what the solution should be (or how to build it)? If so, consider submitting your own governance challenge to Metagov. If your challenge is accepted, your challenge will go on the list above, and you’ll get 20 NEAR just for writing the challenge and 100 NEAR if ANYONE (including yourself) answers the challenge. See [below](#propose-your-own-challenge) for more details.
 
 # Starter week
-This hackathon is a bit special: we're running it *entirely through DAOs*. That means you'll need to register through a DAO and that the vast majority of hackathon prizes will be awarded through a DAO on NEAR to a DAO that you create. To make that prospect sweeter, we're encouraging people to get onboard early with $5,000 in prizes to be distributed in the first week. To qualify for a 30 NEAR payout (~ $120 USD), all you have to do is register a [Sputnik DAO](https://sputnik.fund/) for your project, have a council with your team as voting members, and submit a 500-word draft proposal to the [Metagov DAO](https://www.sputnik.fund/dao/metagov.sputnikdao.near/details) *within the first week of the hackathon*. In addition to the direct payout, a submission will also qualify you for a round of special prizes. Note that there's a finite prize pool for payouts, so proposals will be answered first-come-first-serve.
+This hackathon is a bit special: we're running it *entirely through DAOs*. That means you'll need to register through a DAO and that the vast majority of hackathon prizes will be awarded through a DAO on NEAR to a DAO that you create. To make that prospect sweeter, we're encouraging people to get onboard early with $5,000 in prizes to be distributed in the first week. To qualify for a 30 NEAR payout (~ $120 USD), all you have to do is register a [Sputnik DAO](https://sputnik.fund/) for your project, have a council with your team as voting members, and submit a 500-word draft proposal to the [Metagov DAO](https://www.sputnik.fund/dao/metagov.sputnikdao.near/proposals) *within the first week of the hackathon*. In addition to the direct payout, a submission will also qualify you for a round of special prizes. Note that there's a finite prize pool for payouts, so proposals will be answered first-come-first-serve.
 
 New to DAOs? Take a look at [this excellent, up-to-date review](https://www.notboring.co/p/the-dao-of-daos) of the DAO phenomenon.
 
@@ -47,7 +47,7 @@ Are you facing a problem but don't know what the solution should be (or how to b
 
 Note that "propose your own challenge" proposals _do not_ count as project proposals for the sake of "starter week" payouts (see above).
 
-If you want to take this option, write a Discourse post describing the challenge (follow the [how to enter a submission](#how-to-enter-a-submission) section below) and submit a payout proposal to the [Metagov DAO](https://www.sputnik.fund/dao/metagov.sputnikdao.near/details) *within the first week of the challenge* (May 22nd). Note that there’s a finite prize pool for "propose your own" payouts, so proposals will be answered first-come-first-serve. The challenge organizers reserve the right to decide whether a project sufficiently answers your challenge.
+If you want to take this option, write a Discourse post describing the challenge (follow the [how to enter a submission](#how-to-enter-a-submission) section below) and submit a payout proposal to the [Metagov DAO](https://www.sputnik.fund/dao/metagov.sputnikdao.near/proposals) *within the first week of the challenge* (May 22nd). Note that there’s a finite prize pool for "propose your own" payouts, so proposals will be answered first-come-first-serve. The challenge organizers reserve the right to decide whether a project sufficiently answers your challenge.
 
 # Introducing the new tools of governance
 We have a ton of special governance workshops, events, and opportunities for you to train and build skills for the hackathon. We're also curating access to a range of tools that might help you expand your experiments.
@@ -94,7 +94,7 @@ _Due: 12pm ET on June 5th_
 
 Post your submission to the [Governance Category](https://gov.near.org/c/gov/6/l/latest) of the NEAR Forum with tag "metagov". Please use [this template](https://gov.near.org/t/proposal-example-project-proposal/1578) to structure your post.
 
-Add a new payout proposal for 0 NEAR to the [Metagov SputnikDAO](https://www.sputnik.fund/dao/metagov.sputnikdao.near/details). The payout target should be your team's DAO. Include a link to your forum post. Judges will use the link provided to make a voting decision on your submission.
+Add a new payout proposal for 0 NEAR to the [Metagov SputnikDAO](https://www.sputnik.fund/dao/metagov.sputnikdao.near/proposals). The payout target should be your team's DAO. Include a link to your forum post. Judges will use the link provided to make a voting decision on your submission. The proposal should be for zero NEAR because the payout amount will vary depending on what you win.
 
 Please only use only one forum thread per submission. Posts to the forum can be edited or replied to if you need to add content to a submission.
 
