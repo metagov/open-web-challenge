@@ -1,22 +1,18 @@
 This is the portal for the upcoming Open Web Governance Challenge, part of the [Open Web Creators and Communities Hackathon](https://createbase.community/hackathon/). The challenge will begin on May 14, 2021 and end on June 6, 2021.
 
-**Latest**
-* Governance panel (Friday @ 3pm EST): register at [https://summit.openweb.community/](https://summit.openweb.community/)
-* Next team social (Friday @ 5pm EST): login at [https://www.airmeet.com/e/b8e5eed0-b4e1-11eb-84f8-01ed4c9714ff](https://www.airmeet.com/e/b8e5eed0-b4e1-11eb-84f8-01ed4c9714ff)
-
 # Key details and dates
 
 * Focus on the governance of blockchains, decentralized autonomous organizations (DAOs), and online communities.
 * $25,000 USD in prizes, with $5,000 to be released in the first week!
-* The hackathon [kickoff conference](http://summit.openweb.community/) is May 14; come to the governance launch at 3pm EST.
-* Three weeks of [workshops and events](https://www.airmeet.com/e/de5a63d0-a1f4-11eb-abd7-f5ba22c554bf) from May 14 to June 6. 
 * *Entries do not have to be technical*.
-* Looking for team? Join a [team-building sessions](https://www.airmeet.com/e/de5a63d0-a1f4-11eb-abd7-f5ba22c554bf) on May 14 and May 15!
+* Three weeks of [workshops and events](https://www.airmeet.com/e/de5a63d0-a1f4-11eb-abd7-f5ba22c554bf) from May 14 to June 6. 
+* All events will take place on [the hackathon Airmeet](https://www.airmeet.com/e/de5a63d0-a1f4-11eb-abd7-f5ba22c554bf); go there for the latest schedule of events!
+* Looking for team? [Join our Telegram](https://t.me/governance_challenge), or post a draft of your idea [on the forum](https://gov.near.org/tag/metagov) (see "How to submit" below).
 * Interested in using PolicyKit or the Metagov Prototype? Attend the [Metagov & PolicyKit Workshop](https://createbase.community/event/metagov-policykit-workshop/) at 1pm ET on Saturday May 15th.
 * More questions? [Join our Telegram](https://t.me/governance_challenge), reply to [our forum post](https://gov.near.org/t/proposal-example-project-proposal/1578), or join the [NEAR Discord](https://discord.gg/KGgwXNCekf).
 
 # Calendar
-All events will take place on the hackathon's [main Airmeet stage](https://www.airmeet.com/e/de5a63d0-a1f4-11eb-abd7-f5ba22c554bf). All times are EST.
+All events will take place on the hackathon's [main Airmeet stage](https://www.airmeet.com/e/de5a63d0-a1f4-11eb-abd7-f5ba22c554bf). All times are EST. 
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shryU24x71Du3IBq1?backgroundColor=pink&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
