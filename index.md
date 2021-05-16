@@ -7,12 +7,13 @@ This is the portal for the upcoming Open Web Governance Challenge, part of the [
 * *Entries do not have to be technical*.
 * Three weeks of [workshops and events](https://www.airmeet.com/e/de5a63d0-a1f4-11eb-abd7-f5ba22c554bf) from May 14 to June 6. 
 * All events will take place on [the hackathon Airmeet](https://www.airmeet.com/e/de5a63d0-a1f4-11eb-abd7-f5ba22c554bf); go there for the latest schedule of events!
-* Looking for team? [Join our Telegram](https://t.me/governance_challenge), or post a draft of your idea [on the forum](https://gov.near.org/tag/metagov) (see "How to submit" below).
+* Regular office hours will be held in the "lounge" area, at the Metagov table.
+* Looking for team? [Join our Telegram](https://t.me/governance_challenge), or post a draft of your idea [on the forum](https://gov.near.org/tag/metagov) with the "looking-for-group" tag (see "How to submit" below). Alternately, find [an existing proposal](https://gov.near.org/tag/metagov) and reply to the post!
 * Interested in using PolicyKit or the Metagov Prototype? Attend the [Metagov & PolicyKit Workshop](https://createbase.community/event/metagov-policykit-workshop/) at 1pm ET on Saturday May 15th.
 * More questions? [Join our Telegram](https://t.me/governance_challenge), reply to [our forum post](https://gov.near.org/t/proposal-example-project-proposal/1578), or join the [NEAR Discord](https://discord.gg/KGgwXNCekf).
 
 # Calendar
-All events will take place on the hackathon's [main Airmeet stage](https://www.airmeet.com/e/de5a63d0-a1f4-11eb-abd7-f5ba22c554bf). All times are EST. 
+All events will take place on the hackathon's [main Airmeet stage](https://www.airmeet.com/e/de5a63d0-a1f4-11eb-abd7-f5ba22c554bf). All times are EST (GMT-4). 
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shryU24x71Du3IBq1?backgroundColor=pink&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
@@ -92,7 +93,7 @@ We want to emphasize something: *entries do not have to be technical*. We encour
 # How to enter a submission
 _Due: 12pm ET on June 5th_
 
-Post your submission to the [Governance Category](https://gov.near.org/c/gov/6/l/latest) of the NEAR Forum with tag "metagov". Please use [this template](https://gov.near.org/t/proposal-example-project-proposal/1578) to structure your post.
+Post your submission to the [Governance Category](https://gov.near.org/c/gov/6/l/latest) of the NEAR Forum with tag "metagov". Please use [this template](https://gov.near.org/t/proposal-example-project-proposal/1578) to structure your post. (Note, if you are open to adding additional collaborators, please add the "looking-for-group" tag to your proposal.)
 
 Add a new payout proposal for 0 NEAR to the [Metagov SputnikDAO](https://www.sputnik.fund/dao/metagov.sputnikdao.near/proposals). The payout target should be your team's DAO. Include a link to your forum post. Judges will use the link provided to make a voting decision on your submission. The proposal should be for zero NEAR because the payout amount will vary depending on what you win.
 
