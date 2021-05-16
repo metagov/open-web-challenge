@@ -6,8 +6,7 @@ This is the portal for the upcoming Open Web Governance Challenge, part of the [
 * $25,000 USD in prizes, with $5,000 to be released in the first week!
 * *Entries do not have to be technical*.
 * Three weeks of [workshops and events](https://www.airmeet.com/e/de5a63d0-a1f4-11eb-abd7-f5ba22c554bf) from May 14 to June 6. 
-* All events will take place on [the hackathon Airmeet](https://www.airmeet.com/e/de5a63d0-a1f4-11eb-abd7-f5ba22c554bf); go there for the latest schedule of events!
-* Regular office hours will be held in the "lounge" area, at the Metagov table.
+* All events will take place on [the hackathon Airmeet](https://www.airmeet.com/e/de5a63d0-a1f4-11eb-abd7-f5ba22c554bf); go there for the latest schedule of events. Note that regular office hours will be held in the "lounge" area of the Airmeet, at the Metagov table.
 * Looking for team? [Join our Telegram](https://t.me/governance_challenge), or post a draft of your idea [on the forum](https://gov.near.org/tag/metagov) with the "looking-for-group" tag (see "How to submit" below). Alternately, find [an existing proposal](https://gov.near.org/tag/metagov) and reply to the post!
 * Interested in using PolicyKit or the Metagov Prototype? Attend the [Metagov & PolicyKit Workshop](https://createbase.community/event/metagov-policykit-workshop/) at 1pm ET on Saturday May 15th.
 * More questions? [Join our Telegram](https://t.me/governance_challenge), reply to [our forum post](https://gov.near.org/t/proposal-example-project-proposal/1578), or join the [NEAR Discord](https://discord.gg/KGgwXNCekf).
