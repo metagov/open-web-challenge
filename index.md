@@ -2,7 +2,7 @@ This is the portal for the upcoming Open Web Governance Challenge, part of the [
 
 # Key details and dates
 
-* Focus on the governance of blockchains, decentralized autonomous organizations (DAOs), and online communities.
+* Focus on the governance of online communities, blockchains, and decentralized autonomous organizations (DAOs).
 * $25,000 USD in prizes, with $5,000 to be released in the first week!
 * *Entries do not have to be technical*.
 * Three weeks of [workshops and events](https://www.airmeet.com/e/de5a63d0-a1f4-11eb-abd7-f5ba22c554bf) from May 14 to June 6. 
