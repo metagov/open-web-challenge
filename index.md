@@ -1,8 +1,8 @@
 This is the portal for the upcoming Open Web Governance Challenge, part of the [Open Web Creators and Communities Hackathon](https://createbase.community/hackathon/). The challenge will begin on May 14, 2021 and end on June 6, 2021.
 
 # Latest news
-* Thursday's breakout session is CANCELLED due to illness (though you are still welcome to hang out with other teams in the lounge). 
-* On Friday, we hear from Seth Frey, professor at UC Davis, on data science for online governance. 5pm EST on the Airmeet!
+* Breakout session on Thursday at noon EST. Come share your projects and ideas, and get feedback from other teams.
+* Complexity + governance workshop this Saturday at 3pm EST.
 
 # Key details and dates
 
