@@ -1,9 +1,11 @@
 This is the portal for the upcoming Open Web Governance Challenge, part of the [Open Web Creators and Communities Hackathon](https://createbase.community/hackathon/). The challenge will begin on May 14, 2021 and end on June 6, 2021.
 
 # Latest news
-* Breakout session on Thursday at noon EST. Come share your projects and ideas, and get feedback from other teams.
 * Complexity + governance workshop this Saturday at 3pm EST.
-
+* **The end of the governance challenge is coming up! The final submission is due at 5pm EST on June 5.**
+* Teams will be expected to present their projects on Sunday, June 6 at 10am EST. Each project will have 5 minutes to present. (If you can't make it, please send in a 5 minute video of you talking through your slides.)
+* Judging will take end at 2pm EST June 6, and the results will be announced shortly afterwards.
+ 
 # Key details and dates
 
 * Focus on the governance of online communities, blockchains, and decentralized autonomous organizations (DAOs).
@@ -94,7 +96,7 @@ Challenge entries must consist of a submission post, a slide presentation, and a
 We want to emphasize something: *entries do not have to be technical*. We encourage a mix of technical and social innovation---remember, blockchain itself is, at its core, a social innovation as well as a technical one!
 
 # How to enter a submission
-_Due: 12pm ET on June 5th_
+_Due: 5pm EST on Saturday, June 5th_
 
 Post your submission to the [Governance Category](https://gov.near.org/c/gov/6/l/latest) of the NEAR Forum with tag "metagov". Please use [this template](https://gov.near.org/t/proposal-example-project-proposal/1578) to structure your post. (Note, if you are open to adding additional collaborators, please add the "looking-for-group" tag to your proposal.)
 
