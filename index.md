@@ -4,7 +4,7 @@ This is the portal for the upcoming Open Web Governance Challenge, part of the [
 * Complexity + governance workshop this Saturday at 3pm EST.
 * **The end of the governance challenge is coming up! The final submission is due at 5pm EST on June 5.**
 * Teams will be expected to present their projects on Sunday, June 6 at 10am EST. Each project will have 5 minutes to present. (If you can't make it, please send in a 5 minute video of you talking through your slides.)
-* Judging will take end at 2pm EST June 6, and the results will be announced shortly afterwards.
+* Judging will end at 2pm EST June 6, and the results will be announced shortly afterwards.
  
 # Key details and dates
 
