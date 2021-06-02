@@ -1,7 +1,8 @@
 This is the portal for the upcoming Open Web Governance Challenge, part of the [Open Web Creators and Communities Hackathon](https://createbase.community/hackathon/). The challenge will begin on May 14, 2021 and end on June 6, 2021.
 
 # Latest news
-* Polycentric governance workshop, hosted by [TEC](https://tecommons.medium.com/) starting at 10am EST. Note that this workshop is on [Zoom](https://us02web.zoom.us/j/88032356143?pwd=OHpXb3kvbzA5bHJrZGNtbGJWbWErQT09), not Airmeet!
+* Wednesday, June 2: Polycentric governance workshop, hosted by [TEC](https://tecommons.medium.com/) and starting at 10am EST. Note that this workshop is on [Zoom](https://us02web.zoom.us/j/88032356143?pwd=OHpXb3kvbzA5bHJrZGNtbGJWbWErQT09), not Airmeet!
+* Thursday, June 3: Cultural Frameworks for DAOs workshop, hosted by [TEC](https://tecommons.medium.com/) and starting at 9am EST. Note that this workshop is on [Zoom](https://us02web.zoom.us/j/88032356143?pwd=OHpXb3kvbzA5bHJrZGNtbGJWbWErQT09), not Airmeet!
 * **The end of the governance challenge is coming up! The final submission is due at 5pm EST on June 5.**
 * Teams will be expected to present their projects on Sunday, June 6 at 10am EST. Each project will have 5 minutes to present. (If you can't make it, please send in a 5 minute video of you talking through your slides.)
 * Judging will end at 2pm EST June 6, and the results will be announced shortly afterwards.
