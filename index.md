@@ -16,15 +16,15 @@ Honorable mentions.
 We also are happy to announce the following winners of our various challenge areas and bounties.
 
 Re-imagine the NEAR Community Fund
-* 1st place - [Signal Corps’ Reimagination of the NEAR Community Fund using QV + Hybrid Council](https://gov.near.org/t/proposal-signal-corps-reimagination-of-the-near-community-fund-using-qv-hybrid-council/2111)
-* 2nd place - [Catalyst: NEAR Community Fund Edition](https://gov.near.org/t/proposal-final-submission-catalyzing-the-near-community-fund/1831)
+* 1st place - [Signal Corps’ Reimagination of the NEAR Community Fund using QV + Hybrid Council](https://gov.near.org/t/proposal-signal-corps-reimagination-of-the-near-community-fund-using-qv-hybrid-council/2111).
+* 2nd place - [Catalyst: NEAR Community Fund Edition](https://gov.near.org/t/proposal-final-submission-catalyzing-the-near-community-fund/1831).
 
 Better DAO frameworks on NEAR
-* 1st place - [Improve Sputnik Framework](https://gov.near.org/t/proposal-improve-sputnik-framework/2202)
-* 2nd place - [quiDAO](https://gov.near.org/t/proposal-quidao/2023)
+* 1st place - [Improve Sputnik Framework](https://gov.near.org/t/proposal-improve-sputnik-framework/2202).
+* 2nd place - [quiDAO](https://gov.near.org/t/proposal-quidao/2023).
 
 Experiment with PolicyKit and the Metagov Prototype
-* 1st place - [Stacks Advocates & TwoRowers’](https://gov.near.org/t/stacks-advocates-tworowers/2709)
+* 1st place - [Stacks Advocates & TwoRowers’](https://gov.near.org/t/stacks-advocates-tworowers/2709).
 
 You can learn more about the [Metagov community here](https://metagov.org/). Stay in touch! 
  
