@@ -4,7 +4,9 @@ This is the portal for the upcoming Open Web Governance Challenge, part of the [
 We’d like to thank all of the participants of the NEAR hackathon who decided to partake in our challenge. After three weeks of hacking, we got to read about and see some great projects. We’re now excited to announce the winners of the Open Web Governance Challenge.
 
 1st place - [Stateless Art - cooperative blockchain art protocol](https://gov.near.org/t/proposal-stateless-art-cooperative-blockchain-art-protocol/1918)
+
 2nd place - [Catalyst: NEAR Community Fund Edition](https://gov.near.org/t/proposal-final-submission-catalyzing-the-near-community-fund/1831)
+
 Honorable mentions:
 * [Stacks Advocates & TwoRowers’](https://gov.near.org/t/stacks-advocates-tworowers/2709)
 * [Signal Corps’ Reimagination of the NEAR Community Fund using QV + Hybrid Council](https://gov.near.org/t/proposal-signal-corps-reimagination-of-the-near-community-fund-using-qv-hybrid-council/2111)
