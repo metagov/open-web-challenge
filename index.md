@@ -1,11 +1,30 @@
 This is the portal for the upcoming Open Web Governance Challenge, part of the [Open Web Creators and Communities Hackathon](https://createbase.community/hackathon/). The challenge will begin on May 14, 2021 and end on June 6, 2021.
 
 # Latest news
-* Wednesday, June 2: Polycentric governance workshop, hosted by [TEC](https://tecommons.medium.com/) and starting at 10am EST. Note that this workshop is on [Zoom](https://us02web.zoom.us/j/88032356143?pwd=OHpXb3kvbzA5bHJrZGNtbGJWbWErQT09), not Airmeet!
-* Thursday, June 3: Cultural Frameworks for DAOs workshop, hosted by [TEC](https://tecommons.medium.com/) and starting at 9am EST. Note that this workshop is on [Zoom](https://us02web.zoom.us/j/88647529308?pwd=TERNLzByMnBpQ1hHMDRXVTdDQ0F1UT09), not Airmeet!
-* **The end of the governance challenge is coming up! The final submission is due at 5pm EST on June 5.**
-* Teams will be expected to present their projects on Sunday, June 6 at 10am EST. Each project will have 5 minutes to present. (If you can't make it, please send in a 5 minute video of you talking through your slides.)
-* Judging will end at 2pm EST June 6, and the results will be announced shortly afterwards.
+We’d like to thank all of the participants of the NEAR hackathon who decided to partake in our challenge. After three weeks of hacking, we got to read about and see some great projects. We’re now excited to announce the winners of the Open Web Governance Challenge.
+
+1st place - [Stateless Art - cooperative blockchain art protocol](https://gov.near.org/t/proposal-stateless-art-cooperative-blockchain-art-protocol/1918)
+2nd place - [Catalyst: NEAR Community Fund Edition](https://gov.near.org/t/proposal-final-submission-catalyzing-the-near-community-fund/1831)
+Honorable mentions:
+* [Stacks Advocates & TwoRowers’](https://gov.near.org/t/stacks-advocates-tworowers/2709)
+* [Signal Corps’ Reimagination of the NEAR Community Fund using QV + Hybrid Council](https://gov.near.org/t/proposal-signal-corps-reimagination-of-the-near-community-fund-using-qv-hybrid-council/2111)
+* [Alas DAO: Attracting donors with innovative technology and social-educational drives](https://gov.near.org/t/proposal-alas-dao-attracting-donors-with-innovative-technology-and-social-educational-drives/1925)
+* [Collective governance of arts](https://gov.near.org/t/proposal-hackathon-ideation-collective-governance-of-arts/2011)
+
+We also are happy to announce the following winners of our various challenge areas and bounties:
+
+Re-imagine the NEAR Community Fund
+1st place - [Signal Corps’ Reimagination of the NEAR Community Fund using QV + Hybrid Council](https://gov.near.org/t/proposal-signal-corps-reimagination-of-the-near-community-fund-using-qv-hybrid-council/2111)
+2nd place - [Catalyst: NEAR Community Fund Edition](https://gov.near.org/t/proposal-final-submission-catalyzing-the-near-community-fund/1831)
+
+Better DAO frameworks on NEAR
+1st place - [Improve Sputnik Framework](https://gov.near.org/t/proposal-improve-sputnik-framework/2202)
+2nd place - [quiDAO](https://gov.near.org/t/proposal-quidao/2023)
+
+Experiment with PolicyKit and the Metagov Prototype
+1st place - [Stacks Advocates & TwoRowers’](https://gov.near.org/t/stacks-advocates-tworowers/2709)
+
+You can learn more about the [Metagov community here](https://metagov.org/). Stay in touch! 
  
 # Key details and dates
 
